@@ -24,7 +24,11 @@ J'ai écrit une introduction et quelques autres choses assez sommaire. Ma mise e
   # 23.03.25
 ### temps de travail = 3h23
 Aujourd'hui, j'ai fait un peu de définition, mais un peu peur, car je devais trouver un équilibre pour que ça ne soit pas trop difficile, compréhensible et en plus juste. J'ai défini aujourd'hui ce qu'sont un champ vectoriel et deux systèmes de notation de coordonnées dans un plan. Je pense que je vais gentiment m lancer à l'avenir sérieusement dans le codage, mais j'ai mis pour le moment des schémas fait sur géogebra. Je pense que à partire de maintenant je vais essayer de faire 5h de travaille par semaines 
+# RDV avec mentor 03.04.25
  # 28.04.25
 ### temps de travail = 2h40
 
 Aujourd'hui, je me suis sérieusement lancé dans le travail en introduisant la transformation linéaire théoriquement en faisant un exemple avec une homothétie. J'ai aussi fait un peu de recherche et je me pause la question de comment je vais introduire les matrices de rotation. 
+# 04.05.25
+### temps de travail = 3h
+Aujourd'hui, j'ai bien travaillé sur les matrices de rotation en introduisant la matrice de rotation pour 90 et 180 degrés grâce à la quatrième propriété des transformations linéaires. J'ai expliqué pourquoi cette méthode était contraignante et j'ai commencé à introduire une matrice permettent de faire tourner un vecteur d'un angle alpha par rapport à l'origine. J'ai aussi marqué quelques endroits qui auraient besoin d'un exemple.
