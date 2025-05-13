@@ -32,3 +32,6 @@ Aujourd'hui, je me suis sérieusement lancé dans le travail en introduisant la 
 # 04.05.25
 ### temps de travail = 3h
 Aujourd'hui, j'ai bien travaillé sur les matrices de rotation en introduisant la matrice de rotation pour 90 et 180 degrés grâce à la quatrième propriété des transformations linéaires. J'ai expliqué pourquoi cette méthode était contraignante et j'ai commencé à introduire une matrice permettent de faire tourner un vecteur d'un angle alpha par rapport à l'origine. J'ai aussi marqué quelques endroits qui auraient besoin d'un exemple.
+# 13.05.25
+### temps de travail = 3h30
+Aujourd'hui, en début de travail, j'ai rapidement défini les choses à ajouter et à améliorer avant de me plonger dans les rotations en 3d. J'ai lu et regardé des vidéos pour m'introduire. Et en même temps, j'ai rempli une feuille de note qui va m'orienter durant mon travail. 
