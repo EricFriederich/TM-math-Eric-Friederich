@@ -35,3 +35,11 @@ Aujourd'hui, j'ai bien travaillé sur les matrices de rotation en introduisant l
 # 13.05.25
 ### temps de travail = 3h30
 Aujourd'hui, en début de travail, j'ai rapidement défini les choses à ajouter et à améliorer avant de me plonger dans les rotations en 3d. J'ai lu et regardé des vidéos pour m'introduire. Et en même temps, j'ai rempli une feuille de note qui va m'orienter durant mon travail. 
+# RDV avec mentor 04.07.25 
+# 15.07.25
+### temps de travail = 1h30
+J'ai commencé ma soirée en mettant un exemple de la 
+Rotation à l'aide d'une matrice de rotation.  J'ai aussi écrit comment effectuer une rotation autour d'un autre point que l'origine et commencer à mettre un exemple.
+# 21.07.25
+### temps de travail = 
+J'ai fini l'exemple d'une rotation au toure d'un autre point que l'origine je pense y ajouter des illustrations une autre fois
