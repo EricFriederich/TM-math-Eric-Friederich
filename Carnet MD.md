@@ -41,5 +41,11 @@ Aujourd'hui, en début de travail, j'ai rapidement défini les choses à ajouter
 J'ai commencé ma soirée en mettant un exemple de la 
 Rotation à l'aide d'une matrice de rotation.  J'ai aussi écrit comment effectuer une rotation autour d'un autre point que l'origine et commencer à mettre un exemple.
 # 21.07.25
+### temps de travail = 3h
+J'ai fini l'exemple d'une rotation au toure d'un autre point que l'origine je pense y ajouter des illustrations une autre fois. J'ai ecrit un texte à la main introduisant mieux les rotation en 3d, parlant des invariantes de la rotation et donc aussi les axes autour des quels on tourne et aussi trouver les angles avec les quel on a tourné
+# 24.07.25
+### temps de travail = 4h30
+J'ai ecris tout le début sur les rotations en 3dimentions, je suis à peu près à 40 pour cent du travail si je devais estimer. La mis en forme et l'orthographe du texte doit encore être vérifié.
+# 26.07.25
 ### temps de travail = 
-J'ai fini l'exemple d'une rotation au toure d'un autre point que l'origine je pense y ajouter des illustrations une autre fois
+Je suis entrain d'êtudier sérieusement cette satané formule de Rodrigue. Elle n'est pas facile niveau géométrie vectoriel. Mais objectif de la soirée réussi, jai 100pour100 compris la demonstration. Je pense me fier à celle faite sur wikipedia par soucis de propreté evidemment en y ajoutant ma touche
