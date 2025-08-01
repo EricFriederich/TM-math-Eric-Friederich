@@ -47,5 +47,8 @@ J'ai fini l'exemple d'une rotation au toure d'un autre point que l'origine je pe
 ### temps de travail = 4h30
 J'ai ecris tout le début sur les rotations en 3dimentions, je suis à peu près à 40 pour cent du travail si je devais estimer. La mis en forme et l'orthographe du texte doit encore être vérifié.
 # 26.07.25
-### temps de travail = 
-Je suis entrain d'êtudier sérieusement cette satané formule de Rodrigue. Elle n'est pas facile niveau géométrie vectoriel. Mais objectif de la soirée réussi, jai 100pour100 compris la demonstration. Je pense me fier à celle faite sur wikipedia par soucis de propreté evidemment en y ajoutant ma touche
+### temps de travail = 2h30
+Je suis entrain d'êtudier sérieusement cette satané formule de Rodrigue. Elle n'est pas facile niveau géométrie vectoriel. Mais objectif de la soirée réussi, jai 100pour100 compris la demonstration. Je pense me fier à celle faite sur wikipedia par soucis de propreté evidemment en y ajoutant ma touche.
+# 01.08.25
+### temps de travail = 2h30
+Ce soir j'ai fait la démonstration de la formule de Rodriges, j'avais déjà compris la démonstration donc j'ai essayé de ne pas bêtement recopier la démonstration sur mes diverses sources mais de profiter pour me l'approprier. Je sais qu'il y aura sûrement beaucoup de choses à améliorer mais il ne faut pas oublier que c'est ma première fois.
