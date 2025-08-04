@@ -52,3 +52,6 @@ Je suis entrain d'êtudier sérieusement cette satané formule de Rodrigue. Elle
 # 01.08.25
 ### temps de travail = 2h30
 Ce soir j'ai fait la démonstration de la formule de Rodriges, j'avais déjà compris la démonstration donc j'ai essayé de ne pas bêtement recopier la démonstration sur mes diverses sources mais de profiter pour me l'approprier. Je sais qu'il y aura sûrement beaucoup de choses à améliorer mais il ne faut pas oublier que c'est ma première fois.
+# 04.08.25
+### temps de travail = 2h30
+Plutôt satisfait de ma soirée, j'ai fini la matrice de rotation avec un vecteur unitaire comme axe. C'était acceptable niveau difficulté, même si j'avoue m'être aidé avec l'IA pour comprendre les diverses démonstrations que j'ai lues. Une petite frayeur à la fin de la session, j'ai cru que je n'avais pas enregistré ma soirée de travail. Pour le moment j'écris, je verrai l'orthogaphe et la syntax à la fin de mon travail.
