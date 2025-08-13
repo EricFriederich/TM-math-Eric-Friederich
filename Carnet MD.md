@@ -55,3 +55,14 @@ Ce soir j'ai fait la démonstration de la formule de Rodriges, j'avais déjà co
 # 04.08.25
 ### temps de travail = 2h30
 Plutôt satisfait de ma soirée, j'ai fini la matrice de rotation avec un vecteur unitaire comme axe. C'était acceptable niveau difficulté, même si j'avoue m'être aidé avec l'IA pour comprendre les diverses démonstrations que j'ai lues. Une petite frayeur à la fin de la session, j'ai cru que je n'avais pas enregistré ma soirée de travail. Pour le moment j'écris, je verrai l'orthogaphe et la syntax à la fin de mon travail.
+# 04.08.25
+### temps de travail = 1h30
+C'était pas très productif cette fois. Je me suis juste informé sur l'outil pillow sur python. J'ai pas envie que mon premier projet de codage ne prenne 
+beaucoup de temps. 
+# 07.08.25
+### temps de travail = 2h
+j'ai cette vois bien avancé sur le coding plus qu'à faire tourner ces pixel et a mettre le code au propre
+# (08-13).08.25
+### temps de travail = plus de 12h à peu près
+Ce que je pensais faire en une soirée m'aura pris plusieurs heures à faire. Je suis finalement fier de mon code qui fait tourner une image carrée à l'angle que je veux. C'était spécial comme expérience, j'ai eu l'impression que c'était une succession de problèmes à résoudre pour, à la fin, se rendre compte que tout était à jeter et que je pouvais recommencer.Je suis content car je me suis que très peu aidé sur le coding. Les commandes ont été apprissent grâce aux dossiers de mon mentor, internet, chatgpt et un peu de tâtonnement. En ayant beaucoup de fois le message d'erreur "index out of range" il m'est venu en idée la clé de la reussit de faire un if pour tout simplement exclure ces index out of range. 
+Il me reste encore à annoter mon programme et ça devrait aller.
