@@ -64,5 +64,27 @@ beaucoup de temps.
 j'ai cette vois bien avancé sur le coding plus qu'à faire tourner ces pixel et a mettre le code au propre
 # (08-13).08.25
 ### temps de travail = plus de 12h à peu près
-Ce que je pensais faire en une soirée m'aura pris plusieurs heures à faire. Je suis finalement fier de mon code qui fait tourner une image carrée à l'angle que je veux. C'était spécial comme expérience, j'ai eu l'impression que c'était une succession de problèmes à résoudre pour, à la fin, se rendre compte que tout était à jeter et que je pouvais recommencer.Je suis content car je me suis que très peu aidé sur le coding. Les commandes ont été apprissent grâce aux dossiers de mon mentor, internet, chatgpt et un peu de tâtonnement. En ayant beaucoup de fois le message d'erreur "index out of range" il m'est venu en idée la clé de la reussit de faire un if pour tout simplement exclure ces index out of range. 
+Ce que je pensais faire en une soirée m'aura pris plusieurs jours à faire. Je suis finalement fier de mon code qui fait tourner une image carrée à l'angle que je veux. C'était spécial comme expérience, j'ai eu l'impression que c'était une succession de problèmes à résoudre pour, à la fin, se rendre compte que tout était à jeter et que je pouvais recommencer.Je suis content car je me suis que très peu aidé sur le coding. Les commandes ont été apprissent grâce aux dossiers de mon mentor, internet, chatgpt et un peu de tâtonnement. En ayant beaucoup de fois le message d'erreur "index out of range" il m'est venu en idée la clé de la reussit de faire un if pour tout simplement exclure ces index out of range. 
 Il me reste encore à annoter mon programme et ça devrait aller.
+# xxx.08.25
+### rdv tm
+# (07-10).09.25
+### temps de travail = plus de 5h à peu près
+J'ai travaillé encore plus sur mon dossier papier notamment la rotation en 3 avec les angles de cardan et d'euler. J'ai fait ça le soir après les cours sur 3 jours.
+# 21.09.25
+### temps de travail = plus de 1h30
+J'ai pu noter une bonne partie de mon savoir sur ces rotations et aussi sur comment retrouver ces angles. Je sens que j'arrive bientôt à la fin du contenu textuel que je voulais faire, bien sûr le travail n'est pas fini mais je commence à voir le bout du tunnel.
+# 22.09.25
+### temps de travail = plus de 1h30
+J'ai avancé sur la methode pour retrouver les angles d'Euler.
+# 8.10.25
+### temps de travail = plus de 4h
+J'ai totalement refait la méthode pour retrouver les angles de euler car j'ai eu accès à un document explicant mieux le sujet.
+# 10.10.25
+### temps de travail =  4h
+J'ai commencé le travail d'harmonoisation. J'essaie de rendre tout ça propre.
+# 14.10.25 RDV tm
+Durant le RDV, on a parlé de la fin de mon travail et des choses qui seraient bien à ajouter et à enlever. Le thème pricipal était: Comment faire une comclusion
+# 12-17.10.25
+### temps de travail =  12h
+J'ai finalisé mon projet et écrit une conclusion, généré le code pour les rotations en 3d grace à l'IA et mis en ordre les sources.
